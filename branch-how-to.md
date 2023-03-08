@@ -6,5 +6,7 @@
 
 #Чтобы отправить ветку на сервер, простая система из:
 `git add <file name>`
-`git commit -m "<comment" `
+
+`git commit -m "<comment>" `
+
 `git push`
